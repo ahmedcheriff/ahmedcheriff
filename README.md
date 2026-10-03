@@ -16,6 +16,6 @@
 
 ## 🛠️ Tech stack
 
-**ML / CV:** Python · TensorFlow / Keras · scikit-learn · OpenCV · NumPy · Matplotlib
-**Web / backend:** Java (JDBC, JSP/Servlet) · Spring Boot · Angular · PHP / Laravel · FastAPI
-**Tools:** Git · Jupyter / Colab · Linux
+- **ML / CV:** Python · TensorFlow / Keras · scikit-learn · OpenCV · NumPy · Matplotlib
+- **Web / backend:** Java (JDBC, JSP/Servlet) · Spring Boot · Angular · PHP / Laravel · FastAPI
+- **Tools:** Git · Jupyter / Colab · Linux
